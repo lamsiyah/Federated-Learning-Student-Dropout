@@ -61,7 +61,7 @@ pip install -r requirements.txt
 1. **Download** the datasets:
    - OULAD: [Kuzilek et al. (2017)](https://analyse.kmi.open.ac.uk/open_dataset)
    - KDD Cup 2015: [Feng et al. (2019)](http://www.kdd.org/kdd-cup/view/kdd-cup-2015)
-   - UIC: Realinho et al. (2022)
+   - UCI: (https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 2. **Place** raw CSV files under `data/<dataset_name>/raw/`.
 3. **Preprocess** and split:
    ```bash

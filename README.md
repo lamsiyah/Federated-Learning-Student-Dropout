@@ -130,6 +130,4 @@ If you use this work, please cite:
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-*Developed by Salima Lamsiyah, Aria Nourbakhsh, Samir El Amrany, and Christoph Schommer*
-
 

@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the AIED 2025 paper below."
+title: "Federated Learning for Student Dropout Prediction - Reproducibility Code"
+type: software
+authors:
+  - family-names: Lamsiyah
+    given-names: Salima
+    orcid: "https://orcid.org/0000-0001-8789-5713"
+  - family-names: Nourbakhsh
+    given-names: Aria
+    orcid: "https://orcid.org/0009-0007-2233-3155"
+  - family-names: El-Amrany
+    given-names: Samir
+    orcid: "https://orcid.org/0009-0007-2305-5185"
+  - family-names: Schommer
+    given-names: Christoph
+    orcid: "https://orcid.org/0000-0002-0308-7637"
+repository-code: "https://github.com/lamsiyah/Federated-Learning-Student-Dropout"
+url: "https://doi.org/10.1007/978-3-031-98465-5_41"
+license: MIT
+version: 1.0.0
+date-released: 2025-07-20
+preferred-citation:
+  type: conference-paper
+  title: "Privacy-Preserving Federated Learning for Student Dropout Prediction: Enhancing Model Transparency with Explainable AI"
+  authors:
+    - family-names: Lamsiyah
+      given-names: Salima
+      orcid: "https://orcid.org/0000-0001-8789-5713"
+    - family-names: Nourbakhsh
+      given-names: Aria
+      orcid: "https://orcid.org/0009-0007-2233-3155"
+    - family-names: El-Amrany
+      given-names: Samir
+      orcid: "https://orcid.org/0009-0007-2305-5185"
+    - family-names: Schommer
+      given-names: Christoph
+      orcid: "https://orcid.org/0000-0002-0308-7637"
+  collection-title: "Artificial Intelligence in Education"
+  publisher:
+    name: "Springer Nature Switzerland"
+  year: 2025
+  start: 324
+  end: 332
+  doi: "10.1007/978-3-031-98465-5_41"
+  isbn: "978-3-031-98465-5"

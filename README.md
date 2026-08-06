@@ -115,16 +115,6 @@ Output plots saved to `figures/xai/<method>/<dataset>/sample_<id>.png`.
 
 Detailed tables and figures are available in the [paper](./paper/PrivacyFL_DropoutPrediction.pdf) and `results/` directory.
 
-## Citation
-If you use this work, please cite:
-```bibtex
-@inproceedings{lamsiyah2025privacy,
-  title={Privacy-Preserving Federated Learning for Student Dropout Prediction: Enhancing Model Transparency with Explainable AI},
-  author={Lamsiyah, S. and El Mahdaouy, A. and Nourbakhsh, A. and Schommer, C.},
-  booktitle={Proceedings of ...},
-  year={2025}
-}
-```
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
